@@ -1,2 +1,0 @@
-# happiness-backend
-happiness-backend
